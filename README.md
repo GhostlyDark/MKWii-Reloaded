@@ -1,7 +1,7 @@
 # MKWii-Reloaded
 Mario Kart Wii HD Texture Pack for Dolphin
 
-![](/mkwii-reloaded.jpg?raw=true)
+![](/mkwii-reloaded.jpg)
 
 ### Credits
 
