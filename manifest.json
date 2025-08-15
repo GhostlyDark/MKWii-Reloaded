@@ -1,0 +1,9 @@
+{
+    "name": "Mario Kart Wii Reloaded",
+    "id": "mkwii-reloaded",
+    "version": "0.2.0",
+    "description": "Mario Kart Wii HD Texture Pack for Dolphin",
+    "authors": ["GhostlyDark"],
+    "website": "https://evilgames.eu/texture-packs/mkwii-reloaded.htm",
+    "compressed": true
+}
